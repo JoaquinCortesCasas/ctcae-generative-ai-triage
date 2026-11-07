@@ -33,7 +33,7 @@ A JSON array of 50 objects. Every object has exactly the six keys below.
 | `Case_ID` | string | `SP-01` … `SP-50` | Unique identifier of the simulated case. |
 | `Therapy_Agent` | string | `Anastrozole`, `Letrozole`, `Exemestane`, `Abemaciclib`, `Palbociclib`, `Ribociclib`, `Fulvestrant`, `Goserelin` | Anticancer agent the simulated patient is receiving. |
 | `Patient_Report_Spanish` | string | Free text (Spanish) | Patient-reported symptom narrative; the input to the pipeline. |
-| `Gold_Standard_CTCAE_Grade` | integer \| null | `1`, `2`, `3`, `4`, `5`, `null` | Clinician-assigned CTCAE v5.0 grade. `null` = the clinician did not assign a grade (case `SP-14`, recorded as "?" in the source workbook). |
+| `Gold_Standard_CTCAE_Grade` | integer \| null | `1`, `2`, `3`, `4`, `5`, `null` | Clinician-assigned CTCAE v5.0 grade. `null` = the clinician did not assign a grade. |
 | `AI_Assigned_Grade` | integer \| null | `1`, `2`, `3`, `4`, `5`, `null` | Grade assigned by the pipeline. `null` = the system deferred to clinical evaluation (no grade issued). |
 | `Concordance` | string | `Matched`, `Deferred` | `Matched` = AI grade equals gold standard. `Deferred` = AI issued no grade (`AI_Assigned_Grade` is `null`). No case with two differing numeric grades occurred. |
 
