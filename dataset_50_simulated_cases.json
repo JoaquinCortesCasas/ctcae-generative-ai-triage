@@ -1,0 +1,402 @@
+[
+  {
+    "Case_ID": "SP-01",
+    "Therapy_Agent": "Anastrozole",
+    "Patient_Report_Spanish": "De vez en cuando siento que me sube un calorcito a la cara y al cuello, dura como un minuto y se me pasa solo. No me molesta ni me interrumpe nada de lo que hago.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-02",
+    "Therapy_Agent": "Anastrozole",
+    "Patient_Report_Spanish": "Me duelen bastante las rodillas y los dedos de la mano, sobre todo en las mañanas. Puedo hacer las cosas de la casa —cocinar, lavar— pero me cuesta más esfuerzo y a veces tengo que parar a descansar.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-03",
+    "Therapy_Agent": "Anastrozole",
+    "Patient_Report_Spanish": "Estoy tan agotada que ni ducharme sola puedo. Me levanto de la cama y ya siento que no tengo fuerzas para nada, aunque haya dormido toda la noche. No puedo hacer nada básico sin que alguien me ayude.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-04",
+    "Therapy_Agent": "Anastrozole",
+    "Patient_Report_Spanish": "A veces me tarda un poco en darme el sueño cuando me acuesto, pero al final me duermo sin problema. No me pasa todas las noches ni me afecta al día siguiente.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-05",
+    "Therapy_Agent": "Anastrozole",
+    "Patient_Report_Spanish": "Tengo náuseas casi todos los días, especialmente después del desayuno. Como bastante menos de lo normal porque siento que la comida me cae mal, pero no he necesitado suero ni ir al hospital.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-06",
+    "Therapy_Agent": "Anastrozole",
+    "Patient_Report_Spanish": "Siento la vagina muy seca y me arde seguido. Eso me molesta también cuando tengo relaciones con mi esposo, aunque los lubricantes que uso me alivian bastante.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-07",
+    "Therapy_Agent": "Anastrozole",
+    "Patient_Report_Spanish": "He perdido mucho cabello. La gente me lo nota en cuanto me ve, y ya tuve que comprarme una peluca porque se me ve demasiado el cuero cabelludo. Me afecta bastante emocionalmente.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-08",
+    "Therapy_Agent": "Letrozole",
+    "Patient_Report_Spanish": "Me dan calores muy frecuentes durante el día y también en la noche: me despierto empapada de sudor varias veces. Eso me impide hacer las labores de la casa con normalidad y duermo muy mal.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-09",
+    "Therapy_Agent": "Letrozole",
+    "Patient_Report_Spanish": "El dolor en las articulaciones es tan fuerte que no puedo abrocharme los botones de la ropa ni caminar hasta el baño sin detenerme. No me puedo valer por mí misma para bañarme.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-10",
+    "Therapy_Agent": "Letrozole",
+    "Patient_Report_Spanish": "Me siento un poco más cansada que antes, pero cuando descanso un rato me recupero bien y puedo seguir haciendo mis actividades normales del día.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-11",
+    "Therapy_Agent": "Letrozole",
+    "Patient_Report_Spanish": "Siento los músculos de las piernas y los brazos adoloridos bastante seguido. Puedo hacer mis cosas del día, pero hay momentos en que tengo que parar porque me duele demasiado.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-12",
+    "Therapy_Agent": "Letrozole",
+    "Patient_Report_Spanish": "De vez en cuando me da un dolor de cabeza leve. Con un acetaminofén se me quita rápido y puedo seguir con todas mis actividades sin ningún problema.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-13",
+    "Therapy_Agent": "Letrozole",
+    "Patient_Report_Spanish": "Siento un dolor persistente en los huesos de la espalda y las caderas que me dificulta agacharme o cargar las bolsas del mercado. Puedo caminar, pero tengo que tener mucho cuidado con los movimientos.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-14",
+    "Therapy_Agent": "Letrozole",
+    "Patient_Report_Spanish": "Mi médico me hizo una densitometría y me dijo que tengo los huesos un poco debilitados (T-score −1.8), pero todavía no me han dado medicamento para eso. No he tenido ninguna fractura ni nada grave.",
+    "Gold_Standard_CTCAE_Grade": null,
+    "AI_Assigned_Grade": null,
+    "Concordance": "Deferred"
+  },
+  {
+    "Case_ID": "SP-15",
+    "Therapy_Agent": "Exemestane",
+    "Patient_Report_Spanish": "Los calores me tienen agotada. Me dan muchísimas veces al día y también de noche: me despierto empapada en sudor y ya no puedo volver a dormir. Tengo que parar todo lo que hago —bañarme sola es un martirio porque me da un sofoco justo en medio.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-16",
+    "Therapy_Agent": "Exemestane",
+    "Patient_Report_Spanish": "A veces siento un molestarcito leve en las muñecas, sobre todo al levantarme. Se me pasa solo al rato y no me impide hacer ninguna de mis actividades del día.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-17",
+    "Therapy_Agent": "Exemestane",
+    "Patient_Report_Spanish": "Me da mareo bastante seguido cuando me levanto o cuando camino. Tengo que agarrarme de las paredes para no caerme, y eso me impide manejar o limpiar la casa con normalidad.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-18",
+    "Therapy_Agent": "Exemestane",
+    "Patient_Report_Spanish": "Sudo un poco más de lo normal, especialmente en las axilas. Yo misma me puedo limpiar sin problema y no me afecta en lo que hago a diario.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-19",
+    "Therapy_Agent": "Exemestane",
+    "Patient_Report_Spanish": "Me siento muy cansada y aunque descanso no me recupero del todo. Ya no puedo hacer los quehaceres del hogar completos ni trabajar como antes, pero sí me puedo valer por mí misma para bañarme y vestirme.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-20",
+    "Therapy_Agent": "Exemestane",
+    "Patient_Report_Spanish": "A veces siento un poco de náusea al tomar la pastilla, pero como y bebo con normalidad. Se me pasa rápido y realmente no me quita el apetito.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-21",
+    "Therapy_Agent": "Exemestane",
+    "Patient_Report_Spanish": "Me siento muy triste casi todos los días sin razón clara. Antes salía a caminar y veía a mis amigas, pero ahora no tengo ganas de hacer nada de eso. Todavía me cuido sola, pero me cuesta mucho motivarme para las cosas del día.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-22",
+    "Therapy_Agent": "Abemaciclib",
+    "Patient_Report_Spanish": "He notado que voy al baño unas dos veces más al día de lo normal y las heces están un poco más blandas, pero sin cólicos fuertes ni nada que me preocupe mucho.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-23",
+    "Therapy_Agent": "Abemaciclib",
+    "Patient_Report_Spanish": "Estoy yendo al baño más de 10 veces al día con diarrea aguada. No puedo salir de casa por miedo a no llegar a tiempo. Me tuvieron que poner suero en el hospital porque me deshidraté.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-24",
+    "Therapy_Agent": "Abemaciclib",
+    "Patient_Report_Spanish": "Las náuseas son bastante fuertes la mayoría de los días. Como mucho menos de lo normal porque casi todo me da asco, aunque no he llegado al hospital ni he necesitado suero por eso.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-25",
+    "Therapy_Agent": "Abemaciclib",
+    "Patient_Report_Spanish": "Me siento un poquito más cansada que antes, pero cuando descanso me recupero bien. Puedo hacer todo lo que hacía antes con un poco más de esfuerzo.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-26",
+    "Therapy_Agent": "Abemaciclib",
+    "Patient_Report_Spanish": "He perdido bastante el apetito y ya no como como antes. Mi médico me dijo que me tomara suplementos alimenticios porque no estaba comiendo suficiente, aunque todavía no he bajado mucho de peso.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-27",
+    "Therapy_Agent": "Abemaciclib",
+    "Patient_Report_Spanish": "En mi último análisis de sangre, el médico me mostró que los neutrófilos me salieron muy bajos (0.3 x 10/L) y me dijo que era una bajada grave. Por eso me redujeron la dosis del medicamento.",
+    "Gold_Standard_CTCAE_Grade": 4,
+    "AI_Assigned_Grade": null,
+    "Concordance": "Deferred"
+  },
+  {
+    "Case_ID": "SP-28",
+    "Therapy_Agent": "Abemaciclib",
+    "Patient_Report_Spanish": "Tengo unas llagas en la boca que me duelen bastante. No puedo comer cosas sólidas porque me duele masticar, así que solo me tomo sopas y cosas muy blandas.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-29",
+    "Therapy_Agent": "Palbociclib",
+    "Patient_Report_Spanish": "Mi médico revisó mis análisis y me dijo que los neutrófilos me salieron bajos (0.7 x 10/L). Me indicó que tuviera cuidado con los contagios y que regresara para un control más pronto de lo habitual.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": null,
+    "Concordance": "Deferred"
+  },
+  {
+    "Case_ID": "SP-30",
+    "Therapy_Agent": "Palbociclib",
+    "Patient_Report_Spanish": "Noto que cuando me peino o me lavo el cabello se me cae más de lo habitual. Pero todavía no se me nota a simple vista; solo yo lo detecto al peinarme. No he necesitado peluca.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-31",
+    "Therapy_Agent": "Palbociclib",
+    "Patient_Report_Spanish": "Tengo la boca llena de llagas y me duele muchísimo. No puedo comer nada —ni siquiera tragar agua sin dolor— y el médico me advirtió que si no mejoro, me van a tener que alimentar de otra manera.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-32",
+    "Therapy_Agent": "Palbociclib",
+    "Patient_Report_Spanish": "Me salieron unas manchitas rosadas en el pecho y la espalda. No me pican ni me molestan para nada. No he necesitado aplicarme ninguna crema.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-33",
+    "Therapy_Agent": "Palbociclib",
+    "Patient_Report_Spanish": "Noto que la comida me sabe muy diferente: a veces metálica, a veces amarga. Ya no me gustan cosas que antes me encantaban, como el chocolate, y prefiero no comer ciertos alimentos porque todo sabe feo.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-34",
+    "Therapy_Agent": "Palbociclib",
+    "Patient_Report_Spanish": "Tengo náuseas todo el día y ya casi no puedo comer ni beber nada. Cualquier cosa que intento tomar me revuelve el estómago y no la tolero. El médico me dijo que si no mejoro me van a hospitalizar para ponerme suero y alimentación.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-35",
+    "Therapy_Agent": "Palbociclib",
+    "Patient_Report_Spanish": "En mis análisis me salió que la hemoglobina está un poquito baja (10.8 g/dL). Mi médico lo anotó pero no me mandó ningún tratamiento todavía. No me siento tan diferente de lo normal.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": null,
+    "Concordance": "Deferred"
+  },
+  {
+    "Case_ID": "SP-36",
+    "Therapy_Agent": "Ribociclib",
+    "Patient_Report_Spanish": "Me llamaron de urgencia del hospital por mis análisis de sangre. El médico me dijo que mis neutrófilos estaban peligrosísimamente bajos —apenas 0.08 × 10⁹/L— y que tenía que internarme de inmediato. Me pusieron factores de crecimiento para las células blancas y me suspendieron el medicamento. El médico me explicó que estaba en riesgo real de una infección que me podría costar la vida.",
+    "Gold_Standard_CTCAE_Grade": 4,
+    "AI_Assigned_Grade": null,
+    "Concordance": "Deferred"
+  },
+  {
+    "Case_ID": "SP-37",
+    "Therapy_Agent": "Ribociclib",
+    "Patient_Report_Spanish": "Las náuseas son bastante frecuentes, sobre todo después de tomar la pastilla en la mañana. Como menos de lo que acostumbraba porque pocas cosas me apetecen. No he bajado tanto de peso ni he necesitado suero, pero sí noto que mi apetito está bastante reducido.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-38",
+    "Therapy_Agent": "Ribociclib",
+    "Patient_Report_Spanish": "Me siento un poco más cansada que antes de empezar el tratamiento, pero cuando me siento a descansar un momento, me recupero bien y puedo seguir haciendo todo lo que hacía antes sin problemas.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-39",
+    "Therapy_Agent": "Ribociclib",
+    "Patient_Report_Spanish": "En mis últimos análisis de sangre me salió que las enzimas del hígado estaban muy elevadas —aproximadamente 12 veces por encima del límite normal. El médico me dijo que era algo serio y me suspendió el medicamento temporalmente hasta que los niveles bajaran. Me hicieron controles semanales del hígado.",
+    "Gold_Standard_CTCAE_Grade": 4,
+    "AI_Assigned_Grade": null,
+    "Concordance": "Deferred"
+  },
+  {
+    "Case_ID": "SP-40",
+    "Therapy_Agent": "Ribociclib",
+    "Patient_Report_Spanish": "A veces, una o dos veces al día, vomito después de tomar mi medicamento. Me siento mal por un rato, pero luego se me pasa y puedo comer algo ligero sin problema. No he necesitado suero ni ir al hospital por eso.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-41",
+    "Therapy_Agent": "Fulvestrant",
+    "Patient_Report_Spanish": "Cada vez que me ponen la inyección en el glúteo, me queda una zona muy inflamada y dolorida que dura varios días. Está roja, hinchada y me duele mucho al sentarme o al caminar. Durante esos días no puedo hacer ejercicio ni caminar largas distancias con normalidad.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-42",
+    "Therapy_Agent": "Fulvestrant",
+    "Patient_Report_Spanish": "El dolor en los huesos es tan intenso que no puedo levantarme de la cama sola. No consigo bañarme ni vestirme sin que mi hija me ayude. Estoy tomando analgésicos fuertes que me recetó el médico, pero aun así el dolor es terrible durante la mayor parte del día.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-43",
+    "Therapy_Agent": "Fulvestrant",
+    "Patient_Report_Spanish": "De vez en cuando me sube un calorcito leve a la cara y al cuello que dura muy poco. Se me pasa solo y no me interrumpe ninguna de mis actividades del día.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-44",
+    "Therapy_Agent": "Fulvestrant",
+    "Patient_Report_Spanish": "Empecé a sentir que no podía respirar bien y se puso tan grave que me llevaron al hospital en ambulancia. Me pusieron oxígeno de emergencia porque mi saturación de oxígeno era muy baja. Los médicos dijeron que era una complicación pulmonar grave y que si hubiera tardado más en ir al hospital podría haber sido fatal.",
+    "Gold_Standard_CTCAE_Grade": 4,
+    "AI_Assigned_Grade": 4,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-45",
+    "Therapy_Agent": "Fulvestrant",
+    "Patient_Report_Spanish": "Tengo náuseas bastante seguido, especialmente los días después de que me ponen la inyección. Como mucho menos de lo que comía antes porque muchas cosas me caen mal. Pero no he necesitado ir al hospital ni que me pongan suero.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-46",
+    "Therapy_Agent": "Goserelin",
+    "Patient_Report_Spanish": "Los calores son insoportables. Me dan muchísimas veces durante el día y también de noche: me despierto empapada en sudor y ya no consigo volver a dormir. Bañarme, cocinar, cualquier cosa que hago me provoca un sofoco tan fuerte que tengo que parar todo y sentarme. Ya no me puedo valer sola con normalidad en las actividades del día a día.",
+    "Gold_Standard_CTCAE_Grade": 3,
+    "AI_Assigned_Grade": 3,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-47",
+    "Therapy_Agent": "Goserelin",
+    "Patient_Report_Spanish": "Llevaba semanas sintiéndome muy mal, sin ganas de nada, sin poder levantarme de la cama. Llegó un momento en que empecé a pensar que ya no quería seguir viviendo y le escribí un mensaje a mi hija despidiéndome. Ella llamó a urgencias y me hospitalizaron de inmediato. El psiquiatra dijo que era una depresión gravísima y que necesitaba atención urgente.",
+    "Gold_Standard_CTCAE_Grade": 4,
+    "AI_Assigned_Grade": 4,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-48",
+    "Therapy_Agent": "Goserelin",
+    "Patient_Report_Spanish": "Sudo muchísimo por todo el cuerpo: la espalda, el pecho, las manos y hasta la cara. Tengo que cambiarme de ropa varias veces al día y ya no puedo salir con ropa oscura porque se me nota demasiado. Esto me limita bastante en el trabajo y en mis salidas sociales.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-49",
+    "Therapy_Agent": "Goserelin",
+    "Patient_Report_Spanish": "Noto que ya no tengo las mismas ganas de tener relaciones íntimas con mi pareja como antes de empezar el tratamiento. No me afecta mucho el día a día, pero sí lo he notado y se lo he comentado a mi médica.",
+    "Gold_Standard_CTCAE_Grade": 1,
+    "AI_Assigned_Grade": 1,
+    "Concordance": "Matched"
+  },
+  {
+    "Case_ID": "SP-50",
+    "Therapy_Agent": "Goserelin",
+    "Patient_Report_Spanish": "Me dan dolores de cabeza bastante frecuentes y con bastante intensidad. Los analgésicos simples no siempre me los quitan del todo. Cuando me da uno fuerte, ya no puedo concentrarme en el trabajo ni hacer las cosas de la casa con normalidad.",
+    "Gold_Standard_CTCAE_Grade": 2,
+    "AI_Assigned_Grade": 2,
+    "Concordance": "Matched"
+  }
+]
